@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou a 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Daiana Heleodoro 😃️</a>
+    <a href="https://www.linkedin.com/in/daiana-heleodoro-00a333283/">Daiana Heleodoro 😃️</a>
   </h1>
   
   <h2 align="center">
